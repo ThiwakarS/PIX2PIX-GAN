@@ -84,6 +84,10 @@ Training progress is monitored through:
 - Loss tracking for both generator and discriminator
 - Automatic model checkpointing
 
+## Dataset
+For the dataset part, I havent Included any files cause, it was way to large.
+you can download it from any internet source, which seems somewhat accurate, to human eye.
+
 ## Results
 
 The model shows promising results after 5-6 epochs, demonstrating:
